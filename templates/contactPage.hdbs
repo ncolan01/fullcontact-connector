@@ -1,0 +1,97 @@
+<div class="container contactDetails">
+   <h3><small>Contact Details</small></h3>
+    <img  src="https://d2ojpxxtu63wzl.cloudfront.net/static/b11e1449e9fbdfd60659ec99fd5299ee_5cef2910cafcdf7e9ce18463f5cae726be0c07205679f60d2effe156bc95e50d" alt="contact primary picture"> 
+   <ul>
+      <li><strong>Bart Lorang</strong></li>
+      <li>Co-founder & CEO</li>
+      <li>Fullcontact</li>
+      <li>Boulder, Colorado, United States</li>
+   </ul>
+    <h3><small>Social Media Profiles</small></h3>
+   <ul class="social">
+      <li class="social-profile">
+         <a target="_blank" href="https://plus.google.com/114426306375480734745">
+         <img src="http://fullcontact-static.s3.amazonaws.com/images/social-icons/24/default/googleplus.png">
+         </a>
+      </li>
+      <li class="social-profile">
+         <a target="_blank" href="http://profiles.google.com/114426306375480734745">
+         <img src="http://fullcontact-static.s3.amazonaws.com/images/social-icons/24/default/googleprofile.png">
+         </a>
+      </li>
+      <li class="social-profile">
+         <a target="_blank" href="http://foursquare.com/10245647">
+         <img src="http://fullcontact-static.s3.amazonaws.com/images/social-icons/24/default/foursquare.png">
+         </a>
+      </li>
+      <li class="social-profile">
+         <a target="_blank" href="http://flickr.com/people/39267654@N00">
+         <img src="http://fullcontact-static.s3.amazonaws.com/images/social-icons/24/default/flickr.png">
+         </a>
+      </li>
+      <li class="social-profile">
+         <a target="_blank" href="http://picasaweb.google.com/lorangb">
+         <img src="http://fullcontact-static.s3.amazonaws.com/images/social-icons/24/default/picasa.png">
+         </a>
+      </li>
+      <li class="social-profile">
+         <a target="_blank" href="http://klout.com/bartlorang">
+         <img src="http://fullcontact-static.s3.amazonaws.com/images/social-icons/24/default/klout.png">
+         </a>
+      </li>
+      <li class="social-profile">
+         <a target="_blank" href="https://twitter.com/bartlorang">
+         <img src="http://fullcontact-static.s3.amazonaws.com/images/social-icons/24/default/twitter.png">
+         </a>
+      </li>
+      <li class="social-profile">
+         <a target="_blank" href="https://github.com/lorangb">
+         <img src="http://fullcontact-static.s3.amazonaws.com/images/social-icons/24/default/github.png">
+         </a>
+      </li>
+      <li class="social-profile">
+         <a target="_blank" href="https://www.facebook.com/bart.lorang">
+         <img src="http://fullcontact-static.s3.amazonaws.com/images/social-icons/24/default/facebook.png">
+         </a>
+      </li>
+      <li class="social-profile">
+         <a target="_blank" href="https://about.me/lorangb">
+         <img src="http://fullcontact-static.s3.amazonaws.com/images/social-icons/24/default/aboutme.png">
+         </a>
+      </li>
+      <li class="social-profile">
+         <a target="_blank" href="https://angel.co/bartlorang">
+         <img src="http://fullcontact-static.s3.amazonaws.com/images/social-icons/24/default/angellist.png">
+         </a>
+      </li>
+      <li class="social-profile">
+         <a target="_blank" href="https://youtube.com/user/lorangb">
+         <img src="http://fullcontact-static.s3.amazonaws.com/images/social-icons/24/default/youtube.png">
+         </a>
+      </li>
+      <li class="social-profile">
+         <a target="_blank" href="http://www.quora.com/Bart-Lorang">
+         <img src="http://fullcontact-static.s3.amazonaws.com/images/social-icons/24/default/quora.png">
+         </a>
+      </li>
+      <li class="social-profile">
+         <a target="_blank" href="http://www.pinterest.com/lorangb/">
+         <img src="http://fullcontact-static.s3.amazonaws.com/images/social-icons/24/default/pinterest.png">
+         </a>
+      </li>
+      <li class="social-profile">
+         <a target="_blank" href="https://www.linkedin.com/in/bartlorang">
+         <img src="http://fullcontact-static.s3.amazonaws.com/images/social-icons/24/default/linkedin.png">
+         </a>
+      </li>
+      <li class="social-profile">
+         <a target="_blank" href="https://gravatar.com/blorang">
+         <img src="http://fullcontact-static.s3.amazonaws.com/images/social-icons/24/default/gravatar.png">
+         </a>
+      </li>
+   </ul>
+</div>
+<p>
+  <button class="btn btn-primary" type="button">Update Zendesk Profile</button>
+  <button class="btn" type="button" onclick="window.location.href='https://api.fullcontact.com/v2/person.html?email=bart@fullcontact.com&apiKey=69b4c2bc2949cd1d'">View Fullcontact profile </button>
+</p>

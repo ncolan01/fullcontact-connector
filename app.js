@@ -2,10 +2,15 @@
 
   return {
     events: {
-      'app.activated':'doSomething'
+      'app.activated':'showContactPage'
+    
     },
 
-    doSomething: function() {
+    showContactPage: function() {
+
+    	console.log("TEST"); 
+		this.switchTo('contactPage');
+
     }
   };
 

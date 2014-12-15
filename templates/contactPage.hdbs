@@ -1,6 +1,6 @@
 <div class="container contactDetails">
    <h3><small>Contact Details</small></h3>
-    <img  alt="User Image" title="User Image" src="https://d2ojpxxtu63wzl.cloudfront.net/static/b11e1449e9fbdfd60659ec99fd5299ee_5cef2910cafcdf7e9ce18463f5cae726be0c07205679f60d2effe156bc95e50d" alt="contact primary picture"> 
+    <img  alt="User Image" title="User Image" src="https://d2ojpxxtu63wzl.cloudfront.net/static/b11e1449e9fbdfd60659ec99fd5299ee_5cef2910cafcdf7e9ce18463f5cae726be0c07205679f60d2effe156bc95e50d" alt="contact primary picture">
    <ul>
       <li><strong>Bart Lorang</strong></li>
       <li>Co-founder & CEO</li>
@@ -86,6 +86,7 @@
       </li>
    </ul>
 </div>
+<br>
 <p>
   <button class="btn btn-primary" type="button">Update Zendesk Profile</button>
   <button class="btn" type="button" onclick="window.location.href='https://api.fullcontact.com/v2/person.html?email=bart@fullcontact.com&apiKey=69b4c2bc2949cd1d'">View Fullcontact profile </button>
